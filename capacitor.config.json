@@ -1,0 +1,11 @@
+{
+  "appId": "com.xboy.toolkit",
+  "appName": "X'Boy Toolkit",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
