@@ -1,7 +1,0 @@
-{
-  "name": "X'Boy Toolkit",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "custom"
-}
